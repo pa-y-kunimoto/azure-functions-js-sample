@@ -1,0 +1,17 @@
+{
+  "name": "js-func-v3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "azure-functions-core-tools": "^4.x"
+  },
+  "volta": {
+    "node": "18.16.1",
+    "npm": "9.8.0"
+  }
+}
