@@ -5,4 +5,4 @@
 ```shell
 npm install && npm run start
 ```
-Sadly, Launched Functions of Azure Functions v3, not Azure Functions v4
+Sadly, Azure Functions Core Tool Detect Functions of Azure Functions v3 only, not Azure Functions v4
